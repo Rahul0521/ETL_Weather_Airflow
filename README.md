@@ -39,6 +39,7 @@ astro dev init
 
 
 # Apache Airflow Weather ETL Project
+![Screenshot (193)](https://github.com/user-attachments/assets/33d835c4-b747-4cab-a31a-6b2439f1b3fe)
 
 This project involves building an ETL pipeline using Apache Airflow.
 
