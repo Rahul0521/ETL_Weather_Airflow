@@ -36,6 +36,16 @@ astro dev init
 
 #Start the Astro and PostgreSQL services:
 
+
+
+# Apache Airflow Weather ETL Project
+
+This project involves building an ETL pipeline using Apache Airflow.
+
+![Airflow Dashboard](./images/airflow_dashboard.png)
+
+The above image shows the main Airflow dashboard used to manage and monitor DAGs.
+
 ```
 astro dev start
 ```
